@@ -1,0 +1,1 @@
+print("Hello everyone this is a intro python code from my side !")
